@@ -1,0 +1,285 @@
+@keyframes first {
+    0% {
+        color: aqua;
+    }
+    10% {
+        color: rgb(10, 12, 105);
+    }
+    20% {
+        color: rgb(104, 16, 126);
+    }
+    30% {
+        color: rgb(18, 231, 89);
+    }
+    40% {
+        color: rgb(230, 209, 20);
+    }
+    45% {
+        color: rgb(225, 235, 235);
+    }
+    60% {
+        color: rgb(211, 43, 14);
+    }
+    75% {
+        color: rgb(123, 129, 129);
+    }
+    100% {
+        color: rgb(230, 18, 159);
+    }
+}
+
+@keyframes Dash {
+    0% {
+        color: rgb(10, 12, 105);
+    }
+    10% {
+        color: rgb(104, 16, 126);
+    }
+    20% {
+        color: rgb(18, 231, 89);
+    }
+    30% {
+        color: rgb(230, 209, 20);
+    }
+    40% {
+        color: rgb(225, 235, 235);
+    }
+    45% {
+        color: rgb(211, 43, 14);
+    }
+    60% {
+        color: rgb(123, 129, 129);
+    }
+    75% {
+        color: rgb(230, 18, 159);
+    }
+    100% {
+        color: aqua;
+    }
+}
+
+@keyframes Social {
+    0% {
+        color: rgb(104, 16, 126);
+    }
+    10% {
+        color: rgb(18, 231, 89);
+    }
+    20% {
+        color: rgb(230, 209, 20);
+    }
+    30% {
+        color: rgb(225, 235, 235);
+    }
+    40% {
+        color: rgb(211, 43, 14);
+    }
+    45% {
+        color: rgb(123, 129, 129);
+    }
+    60% {
+        color: rgb(230, 18, 159);
+    }
+    75% {
+        color: aqua;
+    }
+    100% {
+        color: rgb(10, 12, 105);
+    }
+}
+
+@keyframes Origin {
+    0% {
+        color: rgb(104, 16, 126);
+    }
+    10% {
+        color: rgb(230, 209, 20);
+    }
+    20% {
+        color: rgb(225, 235, 235);
+    }
+    30% {
+        color: rgb(211, 43, 14);
+    }
+    40% {
+        color: rgb(123, 129, 129);
+    }
+    45% {
+        color: rgb(230, 18, 159);
+    }
+    60% {
+        color: aqua;
+    }
+    75% {
+        color: rgb(10, 12, 105);
+    }
+    100% {
+        color: rgb(18, 231, 89);
+    }
+}
+
+@keyframes Car {
+    0% {
+        color: rgb(230, 209, 20);
+    }
+    10% {
+        color: rgb(225, 235, 235);
+    }
+    20% {
+        color: rgb(211, 43, 14);
+    }
+    30% {
+        color: rgb(123, 129, 129);
+    }
+    40% {
+        color: rgb(230, 18, 159);
+    }
+    45% {
+        color: aqua;
+    }
+    60% {
+        color: rgb(10, 12, 105);
+    }
+    75% {
+        color: rgb(18, 231, 89);
+    }
+    100% {
+        color: rgb(104, 16, 126);
+    }
+}
+
+@keyframes ice {
+    0% {
+        color: rgb(225, 235, 235);
+    }
+    10% {
+        color: rgb(211, 43, 14);
+    }
+    20% {
+        color: rgb(123, 129, 129);
+    }
+    30% {
+        color: rgb(230, 18, 159);
+    }
+    40% {
+        color: aqua;
+    }
+    45% {
+        color: rgb(10, 12, 105);
+    }
+    60% {
+        color: rgb(18, 231, 89);
+    }
+    75% {
+        color: rgb(104, 16, 126);
+    }
+    100% {
+        color: rgb(230, 209, 20);
+    }
+}
+
+@keyframes Emeny {
+    0% {
+        color: rgb(211, 43, 14);
+    }
+    10% {
+        color: rgb(123, 129, 129);
+    }
+    20% {
+        color: rgb(230, 18, 159);
+    }
+    30% {
+        color: aqua;
+    }
+    40% {
+        color: rgb(10, 12, 105);
+    }
+    45% {
+        color: rgb(18, 231, 89);
+    }
+    60% {
+        color: rgb(104, 16, 126);
+    }
+    75% {
+        color: rgb(230, 209, 20);
+    }
+    100% {
+        color: rgb(225, 235, 235);
+    }
+}
+
+@keyframes Total {
+    0% {
+        color: rgb(123, 129, 129);
+    }
+    10% {
+        color: rgb(230, 18, 159);
+    }
+    20% {
+        color: aqua;
+    }
+    30% {
+        color: rgb(10, 12, 105);
+    }
+    40% {
+        color: rgb(18, 231, 89);
+    }
+    45% {
+        color: rgb(104, 16, 126);
+    }
+    60% {
+        color: rgb(230, 209, 20);
+    }
+    75% {
+        color: rgb(225, 235, 235);
+    }
+    100% {
+        color: rgb(211, 43, 14);
+    }
+}
+
+@keyframes Yam {
+    0% {
+        color: rgb(230, 18, 159);
+    }
+    10% {
+        color: aqua;
+    }
+    20% {
+        color: rgb(10, 12, 105);
+    }
+    30% {
+        color: rgb(18, 231, 89);
+    }
+    40% {
+        color: rgb(104, 16, 126);
+    }
+    45% {
+        color: rgb(230, 209, 20);
+    }
+    60% {
+        color: rgb(225, 235, 235);
+    }
+    75% {
+        color: rgb(211, 43, 14);
+    }
+    100% {
+        color: rgb(123, 129, 129);
+    }
+}
+
+@media (max-width: 600px) {
+    div,
+    main,
+    header {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .mobiletitle {
+        width: 100%;
+        height: auto;
+    }
+}
