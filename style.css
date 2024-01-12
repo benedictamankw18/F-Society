@@ -296,7 +296,11 @@ main {
 @media only screen
 and (min-device-width : 100px)
 and (max-device-width : 480px) {
-    
+    body {
+    width: 100%;
+    display: contents;
+    font-family: 'Arial', 'Courier New', Courier, monospace, Georgia, 'Times New Roman', Times, serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    }
     header {
         width: 100%;
         height: 100%;
